@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572169245877",
+    "firebase_url": "https://woozoo-97585-default-rtdb.firebaseio.com",
+    "project_id": "woozoo-97585",
+    "storage_bucket": "woozoo-97585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572169245877:android:a82e1b0b47f73e8972dafc",
+        "android_client_info": {
+          "package_name": "com.LAOE.WooZoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572169245877-k87peggfl5ld3h0irsub6a8kicg8g3rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LAOE.WooZoo",
+            "certificate_hash": "00660dbef4abb91f6cc29bcc2c5ad505b32886c2"
+          }
+        },
+        {
+          "client_id": "572169245877-btpj9aee1cooti7q3vg8uk0p5vqbupdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNExi2AL2gys7dy7gwSBQG8oz4C0595bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572169245877-btpj9aee1cooti7q3vg8uk0p5vqbupdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
